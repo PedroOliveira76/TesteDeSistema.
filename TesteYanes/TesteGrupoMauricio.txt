@@ -1,0 +1,9 @@
+1 - Não há cadastro, apenas um usurio pré cadastrado
+2- Não há aviso quando é inserido um valor nulo na aba adicionar
+3- É adicionado valores negativos no estoque e no valor do produto
+4- Não é adiciona valores com virgula e tambem não é exibida mensagem de erro
+5- Valores negativos são aceitos na aba editar produto
+6- Poderia ser melhorado a parte de edição, para editar somente o campo de dados desejado, e não precisar preencher todos campos novamente
+7- não exibido mensagem de erro ao inserir id nulo e negativo na aba de excluir produto
+8- Ao puxar o botão ta abrindo uma nova aba
+9- Ao abrir a rota em uma nova aba, quando a aplicação é deslogada ainda é permitidado ver os dados

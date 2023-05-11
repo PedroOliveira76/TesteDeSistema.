@@ -1,0 +1,11 @@
+1 - Ao fazer um login errado, uma nav bar inesperada aparece
+2 - Falha na proteção de rotas
+3 - Tabela de clientes e de produtos estão iguais
+4 - O formulário está cadastrando com valores inconsistentes
+5 - Ao cadastrar um produto, mesmo passando valores inconsistentes,
+o formulario diz que ja existe um produto com esse nome.
+6 - Formulario de produto está cadastrando a quantidade e o preço
+do produto com números negativos.
+7 - Má funcionalidade na hora de cadastrar os pets
+8 - Botão de editar mesmo sem mudar os dados está voltando para a aba
+de clientes
